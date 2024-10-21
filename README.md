@@ -1,16 +1,11 @@
-# double_tap
+# Double Tap
 
-A new Flutter project.
+Proyek Flutter ini bertujuan untuk mengembangkan aplikasi yang mendemonstrasikan penggunaan gesture `double tap` (ketuk dua kali) pada elemen antarmuka pengguna (UI). Aplikasi ini sangat berguna bagi mereka yang ingin mempelajari cara menangani interaksi pengguna melalui gestur dalam pengembangan Flutter.
 
-## Getting Started
+## Fitur Utama
+- **Gesture Double Tap:** Aplikasi ini memungkinkan pengguna untuk berinteraksi dengan elemen UI menggunakan gesture `double tap`, menunjukkan bagaimana Flutter menangani input sentuhan dari pengguna.
+- **Animasi Responsif:** Ketika pengguna melakukan double tap, aplikasi akan merespons dengan perubahan visual atau animasi, memperlihatkan efek langsung dari gestur tersebut.
+- **Contoh Interaktif:** Aplikasi ini memberikan pengalaman praktis untuk menguji dan memahami cara kerja gesture dalam Flutter, terutama dalam konteks pengembangan UI yang responsif.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini dirancang untuk memberikan wawasan kepada pengguna tentang bagaimana mengimplementasikan gesture `double tap` dalam aplikasi Flutter. Pengguna dapat belajar bagaimana menangani berbagai jenis input dari pengguna dan menggunakannya untuk memperkaya pengalaman pengguna dengan animasi atau aksi khusus yang terjadi setelah gesture dikenali.
