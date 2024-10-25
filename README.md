@@ -9,3 +9,9 @@ Proyek Flutter ini bertujuan untuk mengembangkan aplikasi yang mendemonstrasikan
 
 ### Tujuan Proyek
 Proyek ini dirancang untuk memberikan wawasan kepada pengguna tentang bagaimana mengimplementasikan gesture `double tap` dalam aplikasi Flutter. Pengguna dapat belajar bagaimana menangani berbagai jenis input dari pengguna dan menggunakannya untuk memperkaya pengalaman pengguna dengan animasi atau aksi khusus yang terjadi setelah gesture dikenali.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/003.1.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/003.2.png" width="200px"/>
+</div>
